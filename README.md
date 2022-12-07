@@ -22,7 +22,7 @@
 
 ## **Release**
 
-[통계청](https://kosis.kr/search/search.do?query=%EA%B8%88%EB%A6%AC)을 통해 2018~2022년 대출 금리 데이터(csv)를 얻었으며 [서울특별시 홈페이지 공공데이터](https://data.seoul.go.kr/dataList/OA-21275/S/1/datasetView.do)를 통해 2018~2022년 서울 부동산 실거래가 데이터(csv)를 얻었으므로 모든 저작권 규칙은 해당 사용 약관에 따릅니다.
+[통계청](https://kosis.kr/search/search.do?query=%EA%B8%88%EB%A6%AC),을 통해 2018~2022년 대출 금리 데이터(csv)를 얻었으며 [서울특별시 홈페이지 공공데이터](https://data.seoul.go.kr/dataList/OA-21275/S/1/datasetView.do),를 통해 2018~2022년 서울 부동산 실거래가 데이터(csv)를 얻었으므로 모든 저작권 규칙은 해당 사용 약관에 따릅니다.
 
 * pandas로 csv 파일 불러와 데이터프레임 형태로 데이터 저장
 
