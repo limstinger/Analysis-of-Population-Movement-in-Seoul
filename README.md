@@ -45,7 +45,18 @@
   
   그래프 기준 선정은 저자의 주관적인 기준으로 선정되었지만 주어진 데이터가 여러 형태로 최대한 잘 표현하도록 설정하였습니다.
   
- ## **Results and Analyzation**
+## **Set Up & Prerequisites**
+
+사용된 패키지:<br>
+
+* [Pandas]([pandas - Data analysis with Python](https://pandas.pydata.org/)) For Data analysis
+* [Matplotlib]([Matplotlib — Visualization with Python](https://matplotlib.org/)) For Visualization
+* [Seaborn]([Seaborn - Data visualization with Python](https://seaborn.pydata.org/)) For visualization
+* Data
+   * [서울 부동산 실거래가 데이터]([서울 부동산 실거래가 데이터(csv)](https://data.seoul.go.kr/dataList/OA-21275/S/1/datasetView.do))
+   * [예금은행 대출금리 데이터]([예금은행 대출금리 데이터(csv)](https://kosis.kr/search/search.do?query=%EA%B8%88%EB%A6%AC))
+  
+## **Results and Analyzation**
  
  * 서울 자치구별 건물면적 당 금액(만원)
  
