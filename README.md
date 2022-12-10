@@ -64,6 +64,7 @@
    
    <img src="/image/1-1.png" width="216" height="450">
    <br>
+   <br>
    이를 그래프로 시각화하면
  
    ![](./image/1.png)
@@ -76,7 +77,8 @@
  
     DataFrame 형태로 데이터를 정리하여 출력하면
    
-   <img src="/image/2-1.png" width="576" height="455">
+   <img src="/image/2-1.png" width="390" height="300">
+   <br>
    <br>
    이를 그래프로 시각화하면
   
