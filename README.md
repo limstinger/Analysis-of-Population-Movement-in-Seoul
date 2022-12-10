@@ -62,7 +62,7 @@
    
    먼저 DataFrame 형태로 데이터를 정리하여 출력해보자
    
-   ![](./image/1-1.png){: width="122" height="238"}
+   ![](./image/1-1.png){: width="31" height="79"}
  
    ![](./image/1.png)
   
