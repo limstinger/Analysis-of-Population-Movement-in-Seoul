@@ -59,6 +59,10 @@
 ## **Results and Analyzation**
  
  * 서울 자치구별 건물면적 당 금액(만원)
+   
+   먼저 DataFrame 형태로 데이터를 정리하여 출력해보자
+   
+   ![](./image/1-1.png)
  
    ![](./image/1.png)
   
