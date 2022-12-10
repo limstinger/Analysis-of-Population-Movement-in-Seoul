@@ -92,4 +92,6 @@
 <br>
 <br>
 ## *참고 문헌 & 참고 자료**
-* Pandas DataFrame([https://wikidocs.net/4366])
+
+* ([Pandas DataFrame](https://wikidocs.net/4366))
+* ([matplotlib를 이용한 데이터 시각화](https://wikidocs.net/2875))
