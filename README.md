@@ -60,7 +60,7 @@
  
  * 서울 자치구별 건물면적 당 금액(만원)
    
-   DataFrame 형태로 데이터를 정리하여 출력하면
+   DataFrame 형태로 데이터를 내림차순으로 정리하여 출력하면
    
    <img src="/image/1-1.png" width="216" height="450">
    <br>
